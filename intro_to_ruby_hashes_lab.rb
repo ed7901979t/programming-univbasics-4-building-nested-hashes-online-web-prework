@@ -1,6 +1,6 @@
 def monopoly
 	monopoly = {:pieces,
-    :rent_in_dollars, :names, :shortline}
+    :rent_in_dollars, :pennsylvania_railroad, :names, :shortline}
 
 end
 
